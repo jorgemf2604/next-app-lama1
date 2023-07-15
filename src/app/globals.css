@@ -39,3 +39,7 @@ a {
   text-decoration-style: wavy;
   color: var(--green);
 }
+
+.tag:hover {
+  color: white;
+}
